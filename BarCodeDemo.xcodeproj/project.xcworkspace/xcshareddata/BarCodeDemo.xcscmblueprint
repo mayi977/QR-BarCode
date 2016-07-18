@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5EA70CF53EA8B9247C4BFE262920841BB658F767",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5EA70CF53EA8B9247C4BFE262920841BB658F767" : 0,
+    "F63DFFD7448788960E0A85C67B3059D0FD144344" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "61DF7F37-35C9-4527-9EB2-AC3DECC08BFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5EA70CF53EA8B9247C4BFE262920841BB658F767" : "QR-BarCode\/",
+    "F63DFFD7448788960E0A85C67B3059D0FD144344" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BarCodeDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BarCodeDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mayi977\/QR-BarCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5EA70CF53EA8B9247C4BFE262920841BB658F767"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mayi977\/MySwiftCalender.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F63DFFD7448788960E0A85C67B3059D0FD144344"
+    }
+  ]
+}
